@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer • RPA Expert • AI Engineer • Technical Founder
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1000&lines=C%23+Expert;Python+Expert;VB.NET+Expert;UiPath+Expert;BluePrism+Expert;Power+Automate+Expert;Technical+Founder+at+Rockae;Great+Conversations+Redefine+Great+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1000&lines=Technical+Founder+at+Rockae;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
 
 ---
 
