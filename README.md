@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer • RPA Expert • AI Engineer • Technical Founder
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1000&lines=Technical+Founder;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=1200&lines=Technical+Founder;The+Right+Conversations+Refine+Systems+and+Strengthen+Architecture" />
 
 ---
 
