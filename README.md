@@ -1,89 +1,84 @@
 <div align="center">
 
-# David Oku (MasterOfLogic)
+# 🚀 David Oku | MasterOfLogic
 
 ### Senior Software Engineer • RPA Expert • AI Engineer • Technical Founder
 
-Building intelligent systems with software, automation and AI.
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Enterprise+Automation+Engineer;AI+and+Software+Builder;Founder+at+Rockae" />
+
+---
+
+![C#](https://img.shields.io/badge/C%23-Expert-68217A?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python)
+![VB.NET](https://img.shields.io/badge/VB.NET-Developer-512BD4?style=for-the-badge)
+![UiPath](https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Engineering-black?style=for-the-badge)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-MasterOfLogic1-181717?style=for-the-badge&logo=github)](https://github.com/MasterOfLogic1)
 
 </div>
 
 ---
 
-## 🚀 About
+# 💡 About Me
 
-I build scalable software, intelligent automation, and AI-powered systems.
-
-Currently building **Rockae**, focused on software, automation and AI-driven innovation.
-
----
-
-## ⚙️ Core Expertise
-
-```text
-C#
-Python
-VB.NET
-UiPath
-ASP.NET
-Django
-REST APIs
-LLMs
-Intelligent Automation
-System Design
-```
+- 🏗 Building intelligent systems with software, automation and AI  
+- 🤖 Enterprise RPA expert with UiPath  
+- 🧠 AI Engineer working on LLM-powered applications  
+- 🚀 Founder building **Rockae**  
+- 🔧 Creator of reusable libraries and developer tools  
 
 ---
 
-## 🏆 Impact
+# ⚙️ Tech Stack
 
-- Built 20+ enterprise automation bots  
-- 1K+ NuGet package downloads  
-- Developed reusable developer libraries  
-- Improved operational efficiency across enterprise systems  
-- Mentored developers into automation engineering roles  
-- Building products at the intersection of software and AI  
+## Languages
 
----
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square)
 
-## 🚧 Featured Work
+## Engineering
 
-### Rockae
-Technical founder building products around:
-
-- AI-powered applications  
-- Collaborative idea systems  
-- Intelligent software tools  
-- Distributed compute innovation  
+![UiPath](https://img.shields.io/badge/UiPath-orange?style=flat-square)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat-square)
+![Django](https://img.shields.io/badge/Django-green?style=flat-square)
 
 ---
 
-### Desky Datatable Activities
-Reusable UiPath activities for developers.
+# 🏆 Impact
+
+✨ 20+ Enterprise Automation Bots  
+✨ 1K+ NuGet Downloads  
+✨ Reusable Developer Libraries  
+✨ Mentored Developers  
+✨ Building Rockae  
 
 ---
 
-### Smart Credential Retriever
-Credential orchestration for automation systems.
+# 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MasterOfLogic1&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOfLogic1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 Currently Exploring
+# 🔥 Current Focus
 
 - AI Agents  
 - LLM Applications  
 - Distributed Compute  
 - Cloud AI IDEs  
-- Advanced Automation Architecture  
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterOfLogic1&show_icons=true&hide_border=true)
+## ⚡ Philosophy
 
----
+### *Build systems that create leverage.*
 
-## Philosophy
-
-> Build systems that create leverage.
+</div>
