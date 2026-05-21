@@ -33,7 +33,7 @@
 - 🏗 Building intelligent systems with software, automation and AI  
 - 🤖 Enterprise automation expert across UiPath, Blue Prism and Power Automate  
 - 🧠 AI Engineer building LLM-powered systems  
-- 🚀 Founder building **Rockae**  
+- 🚀 Building **Rockae**  
 - 🎥 Sharing knowledge on **MasterOfLogic** YouTube  
 - 🌍 Growing the **AIEV Community** around AI and innovation  
 
